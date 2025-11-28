@@ -137,10 +137,23 @@
 }
 
 .lots__card-list {
+    /*
   display: flex;
   flex-wrap: wrap;
   list-style: none;
   gap: 25px;
+  */
+  
+  
+  position: relative;
+  display: flex;
+  flex-direction: wrap;
+  justify-content: space-between;
+  align-content: space-between;
+  gap: 25px;
+  list-style: none;
+  
+  
 }
 
 .lots__card-list-item {
