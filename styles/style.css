@@ -23,6 +23,7 @@ a {
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
   padding: 92px 49px 92px 51px;
+  height: 293px;
 }
 
 .header__links-list {
