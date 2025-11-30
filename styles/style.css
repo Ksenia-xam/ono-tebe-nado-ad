@@ -22,8 +22,7 @@ a {
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
-  padding: 85px 50px;
-  padding-right: 70px;
+  padding: 92px 49px 92px 51px;
 }
 
 .header__links-list {
